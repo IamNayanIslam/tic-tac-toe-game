@@ -65,6 +65,12 @@ export const StyledBoard = styled.div`
     height: 72px;
     width: 72px;
   }
+
+  @media screen and (max-width: 500px) {
+    img {
+      height: 50px;
+    }
+  }
 `;
 
 export const StyledResetButton = styled.button`
