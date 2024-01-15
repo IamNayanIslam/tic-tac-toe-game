@@ -22,7 +22,7 @@ export const StyledTicTacToeContainer = styled.div`
 
   @media screen and (max-width: 500px) {
     h1 {
-      font-size: 25px;
+      font-size: 20px;
     }
   }
 
